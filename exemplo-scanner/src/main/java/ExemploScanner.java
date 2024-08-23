@@ -5,6 +5,7 @@ public class ExemploScanner {
         //PRA USAR SCANNER, PRECISA CRIAR UM OBJETO
         // O que caracteriza um objeto: palavra NEW
         // Parâmentros = Argumentos
+        //Criar um scanner só pra nextLine para não dar erro
 
         /////////////////////////////////////////////////////////////////
         //System.in = input do sistema
