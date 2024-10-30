@@ -1,4 +1,12 @@
+package introducao;
+
 public class BilheteUnico {
+    //Boas praticas para classe:
+    //1- atributos
+    //2- métodos(comportamentos)
+    //3-
+    //4-
+
     //Objeto = Classe
     //Características = Atributos = Variáveis
     //Comportamento = Métod0

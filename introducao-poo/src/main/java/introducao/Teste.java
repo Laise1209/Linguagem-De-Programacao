@@ -1,3 +1,5 @@
+package introducao;
+
 public class Teste {
     public static void main(String[] args) {
         //Instanciar um objeto
